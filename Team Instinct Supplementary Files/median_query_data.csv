@@ -1,0 +1,29 @@
+adm2_name,adm3_name,Ed,weekday,txn_count,median_daily_txn,pct_change
+Dhaka,Darus Salam,2022-06-12,Sunday,730,757.0,-3.6
+Dhaka,Darus Salam,2022-06-13,Monday,705,757.0,-6.9
+Dhaka,Darus Salam,2022-06-14,Tuesday,758,757.0,0.1
+Dhaka,Darus Salam,2022-06-15,Wednesday,720,757.0,-4.9
+Dhaka,Darus Salam,2022-06-16,Thursday,722,757.0,-4.6
+Dhaka,Darus Salam,2022-06-17,Friday,708,757.0,-6.5
+Dhaka,Darus Salam,2022-06-18,Saturday,705,757.0,-6.9
+Dhaka,Kalabagan,2022-06-12,Sunday,1181,1206.0,-2.1
+Dhaka,Kalabagan,2022-06-13,Monday,1168,1206.0,-3.2
+Dhaka,Kalabagan,2022-06-14,Tuesday,1176,1206.0,-2.5
+Dhaka,Kalabagan,2022-06-15,Wednesday,1219,1206.0,1.1
+Dhaka,Kalabagan,2022-06-16,Thursday,1144,1206.0,-5.1
+Dhaka,Kalabagan,2022-06-17,Friday,901,1206.0,-25.3
+Dhaka,Kalabagan,2022-06-18,Saturday,1172,1206.0,-2.8
+Dhaka,Motijheel,2022-06-12,Sunday,2506,2447.0,2.4
+Dhaka,Motijheel,2022-06-13,Monday,2418,2447.0,-1.2
+Dhaka,Motijheel,2022-06-14,Tuesday,2446,2447.0,-0.0
+Dhaka,Motijheel,2022-06-15,Wednesday,2422,2447.0,-1.0
+Dhaka,Motijheel,2022-06-16,Thursday,2548,2447.0,4.1
+Dhaka,Motijheel,2022-06-17,Friday,1721,2447.0,-29.7
+Dhaka,Motijheel,2022-06-18,Saturday,2255,2447.0,-7.8
+Dhaka,New Market,2022-06-12,Sunday,881,799.0,10.3
+Dhaka,New Market,2022-06-13,Monday,805,799.0,0.8
+Dhaka,New Market,2022-06-14,Tuesday,406,799.0,-49.2
+Dhaka,New Market,2022-06-15,Wednesday,859,799.0,7.5
+Dhaka,New Market,2022-06-16,Thursday,833,799.0,4.3
+Dhaka,New Market,2022-06-17,Friday,699,799.0,-12.5
+Dhaka,New Market,2022-06-18,Saturday,835,799.0,4.5
